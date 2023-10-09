@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-chmod 751 hello
-=======
 chmod ugo+x hello
->>>>>>> 44a14d8... Fixing error in 8th script
